@@ -26,7 +26,7 @@
         "test:lint": "npx eslint './test/gen/*'"
     },
     "peerDependencies": {
-        "@sap/cds": "^7"
+        "@sap/cds": "^8"
     },
     "devDependencies": {
         "@commitlint/cli": "^15.0.0",
